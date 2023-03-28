@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="algobase.h" />
+    <ClInclude Include="construct.h" />
     <ClInclude Include="iterator.h" />
     <ClInclude Include="type_traits.h" />
     <ClInclude Include="util.h" />
