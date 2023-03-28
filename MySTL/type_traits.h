@@ -2,6 +2,8 @@
 #define MYSTL_TYPE_TRAITS_H
 
 // 这个头文件用于提取类型信息
+//迭代器Iterator作为算法对容器操作的桥梁，在面对不同种类型容器的迭代器时，
+//为了避免算法麻烦，创建了traits这个中间人来统一向算法提供当前迭代器所指向容器中元素的相关信息
 
 // use standard header for type_traits
 #include <type_traits>
