@@ -32,7 +32,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="C:\Users\19124\Desktop\9aa7453fec5748adb3a555a5d21e66d5.jpg">
+    <Image Include="STL六大组件.jpg">
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>
