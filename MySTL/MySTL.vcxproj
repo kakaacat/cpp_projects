@@ -144,6 +144,7 @@
     <ClInclude Include="construct.h" />
     <ClInclude Include="iterator.h" />
     <ClInclude Include="type_traits.h" />
+    <ClInclude Include="uninitialized.h" />
     <ClInclude Include="util.h" />
   </ItemGroup>
   <ItemGroup>
