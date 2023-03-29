@@ -30,6 +30,9 @@
     <ClInclude Include="construct.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="allocator.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Image Include="STL六大组件.jpg">
