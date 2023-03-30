@@ -151,6 +151,7 @@
     <ClInclude Include="type_traits.h" />
     <ClInclude Include="uninitialized.h" />
     <ClInclude Include="util.h" />
+    <ClInclude Include="vector.h" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="STL六大组件.jpg" />
