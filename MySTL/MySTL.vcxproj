@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="algo.h" />
     <ClInclude Include="algobase.h" />
     <ClInclude Include="allocator.h" />
     <ClInclude Include="construct.h" />
