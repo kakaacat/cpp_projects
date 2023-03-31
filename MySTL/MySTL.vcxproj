@@ -149,6 +149,7 @@
     <ClInclude Include="heap_algo.h" />
     <ClInclude Include="iterator.h" />
     <ClInclude Include="list.h" />
+    <ClInclude Include="map.h" />
     <ClInclude Include="memory.h" />
     <ClInclude Include="rb_tree.h" />
     <ClInclude Include="type_traits.h" />
