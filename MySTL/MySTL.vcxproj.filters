@@ -69,6 +69,9 @@
     <ClInclude Include="queue.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="stack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Image Include="STL六大组件.jpg">

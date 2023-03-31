@@ -153,6 +153,7 @@
     <ClInclude Include="memory.h" />
     <ClInclude Include="queue.h" />
     <ClInclude Include="rb_tree.h" />
+    <ClInclude Include="stack.h" />
     <ClInclude Include="type_traits.h" />
     <ClInclude Include="uninitialized.h" />
     <ClInclude Include="util.h" />
