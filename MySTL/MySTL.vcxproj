@@ -152,6 +152,7 @@
     <ClInclude Include="list.h" />
     <ClInclude Include="map.h" />
     <ClInclude Include="memory.h" />
+    <ClInclude Include="numeric.h" />
     <ClInclude Include="queue.h" />
     <ClInclude Include="rb_tree.h" />
     <ClInclude Include="set.h" />
