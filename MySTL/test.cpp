@@ -18,6 +18,7 @@ int main()
 	std::cout.sync_with_stdio(false);
 
 	RUN_ALL_TESTS();
+	//vector test
 	vector_test::vector_test();
 
 #if defined(_MSC_VER) && defined(_DEBUG)
