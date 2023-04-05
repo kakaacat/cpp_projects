@@ -9,6 +9,8 @@
 #endif // check memory leaks
 
 #include "vector_test.h"
+#include "list_test.h"
+
 
 
 int main()
@@ -20,6 +22,7 @@ int main()
 	RUN_ALL_TESTS();
 	//vector test
 	vector_test::vector_test();
+	list_test::list_test();
 
 #if defined(_MSC_VER) && defined(_DEBUG)
 	_CrtDumpMemoryLeaks();
