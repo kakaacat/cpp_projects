@@ -111,6 +111,9 @@
     <ClInclude Include="list_test.h">
       <Filter>头文件\Test</Filter>
     </ClInclude>
+    <ClInclude Include="deque_test.h">
+      <Filter>头文件\Test</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Image Include="STL六大组件.jpg">

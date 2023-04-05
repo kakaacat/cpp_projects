@@ -146,6 +146,7 @@
     <ClInclude Include="color.h" />
     <ClInclude Include="construct.h" />
     <ClInclude Include="deque.h" />
+    <ClInclude Include="deque_test.h" />
     <ClInclude Include="exceptdef.h" />
     <ClInclude Include="functional.h" />
     <ClInclude Include="hashtable.h" />
