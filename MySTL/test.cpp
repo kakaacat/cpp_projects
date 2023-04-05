@@ -10,7 +10,8 @@
 
 #include "vector_test.h"
 #include "list_test.h"
-
+#include "deque_test.h"
+#include "map_test.h"
 
 
 int main()
@@ -23,6 +24,9 @@ int main()
 	//vector test
 	vector_test::vector_test();
 	list_test::list_test();
+	deque_test::deque_test();
+	map_test::map_test();
+	map_test::multimap_test();
 
 #if defined(_MSC_VER) && defined(_DEBUG)
 	_CrtDumpMemoryLeaks();
