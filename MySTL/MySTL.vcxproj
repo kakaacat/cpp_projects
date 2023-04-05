@@ -152,6 +152,7 @@
     <ClInclude Include="heap_algo.h" />
     <ClInclude Include="iterator.h" />
     <ClInclude Include="list.h" />
+    <ClInclude Include="list_test.h" />
     <ClInclude Include="map.h" />
     <ClInclude Include="memory.h" />
     <ClInclude Include="numeric.h" />
