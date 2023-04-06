@@ -129,6 +129,9 @@
     <ClInclude Include="unordered_map_test.h">
       <Filter>头文件\Test</Filter>
     </ClInclude>
+    <ClInclude Include="unordered_set_test.h">
+      <Filter>头文件\Test</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Image Include="STL六大组件.jpg">
