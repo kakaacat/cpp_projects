@@ -15,7 +15,7 @@
 #include "queue_test.h"
 #include "stack_test.h"
 #include "set_test.h"
-
+#include "unordered_map_test.h"
 
 int main()
 {
@@ -35,6 +35,8 @@ int main()
 	stack_test::stack_test();
 	set_test::set_test();
 	set_test::multiset_test();
+	unordered_map_test::unordered_map_test();
+	unordered_map_test::unordered_multimap_test();
 
 #if defined(_MSC_VER) && defined(_DEBUG)
 	_CrtDumpMemoryLeaks();

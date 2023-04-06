@@ -171,6 +171,7 @@
     <ClInclude Include="type_traits.h" />
     <ClInclude Include="uninitialized.h" />
     <ClInclude Include="unordered_map.h" />
+    <ClInclude Include="unordered_map_test.h" />
     <ClInclude Include="unordered_set.h" />
     <ClInclude Include="util.h" />
     <ClInclude Include="vector.h" />
