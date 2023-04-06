@@ -12,6 +12,8 @@
 #include "list_test.h"
 #include "deque_test.h"
 #include "map_test.h"
+#include "queue_test.h"
+#include "stack_test.h"
 
 
 int main()
@@ -27,6 +29,9 @@ int main()
 	deque_test::deque_test();
 	map_test::map_test();
 	map_test::multimap_test();
+	queue_test::queue_test();
+	queue_test::priority_test();
+	stack_test::stack_test();
 
 #if defined(_MSC_VER) && defined(_DEBUG)
 	_CrtDumpMemoryLeaks();

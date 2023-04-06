@@ -117,6 +117,12 @@
     <ClInclude Include="map_test.h">
       <Filter>头文件\Test</Filter>
     </ClInclude>
+    <ClInclude Include="queue_test.h">
+      <Filter>头文件\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="stack_test.h">
+      <Filter>头文件\Test</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Image Include="STL六大组件.jpg">
